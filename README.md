@@ -1,7 +1,7 @@
 # Netflix-Data-Analysis
 Analyzing and visualizing the Netflix library using Python through six tasks presented by Auspify Technologies
 
-Tasks Progress
+## Tasks Progress
 - [x] Task 1 : Content Type Analysis
 - [ ] Task 2 : Netflix Data Cleaning & Preparation
 - [ ] Task 3 : Country-Wise Content Analysis
@@ -13,9 +13,9 @@ Tasks Progress
 Analyzing the baseline distribution and proportions of Movies and TV Shows available on Netflix
 
 ### Key points :
-Total Titles Analyzed : 8790
-Movies Count : 6126 (69.7%)
-TV Shows Count : 2664 (30.3%)
+* Total Titles Analyzed : 8790
+* Movies Count : 6126 (69.7%)
+* TV Shows Count : 2664 (30.3%)
 
 ### Visualization
 ![Netflix Content Type Analysis](img1.png)
