@@ -22,6 +22,6 @@ Analyzing the baseline distribution and proportions of Movies and TV Shows avail
 ![Netflix Content Type Analysis](img2.png)
 
 ### Business Insights And Recommendations
-1 **Most Preferred Content :** Movies make up approximately **70%** of the total library driven by rapid production and release cycles
-2 **Engagement vs. Volume :** While movies account for the majority of the content TV series are the primary driver of long term user retention and subscription growth
-3 **Strategic Move :** Netflix should balance its content portfolio by increasing investment in TV series to reduce churn rates
+* **Most Preferred Content :** Movies make up approximately **70%** of the total library driven by rapid production and release cycles
+* **Engagement vs. Volume :** While movies account for the majority of the content TV series are the primary driver of long term user retention and subscription growth
+* **Strategic Move :** Netflix should balance its content portfolio by increasing investment in TV series to reduce churn rates
