@@ -40,7 +40,7 @@ Cleaning and preparing the raw Netflix dataset (8,790 titles) for accurate busin
 
 
 
-## Task 2
+# Task 2
 Analyzing the baseline distribution and proportions of Movies and TV Shows available on Netflix
 
 ### Key points :
