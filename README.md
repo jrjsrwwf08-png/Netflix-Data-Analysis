@@ -10,26 +10,35 @@ Analyzing and visualizing the Netflix library using Python through six tasks pre
 - [ ] Task 6 : Netflix Business Insights Report
 
 ## Task 1
-
-This task focuses on cleaning and preparing the raw Netflix catalog dataset for analytical workflows and reporting 
-Raw datasets often suffer from missing values, inconsistent string casing, unparsed dates, and mixed metric units—all of which were resolved in this phase
-
-### 📊 Before vs. After Summary
-
-| Metric / Field | Raw Dataset | Cleaned Dataset | Transformation Logic |
-| :--- | :--- | :--- | :--- |
-| **Total Records** | 8,790 | 8,790 (or cleaned count) | Verified uniqueness & handled nulls |
-| **Missing `director`** | ~2,634 missing | 0 nulls | Replaced with `'Unknown'` |
-| **Missing `country`** | ~831 missing | 0 nulls | Mode imputation / `'Unknown'` |
-| **`date_added` Format** | String (e.g., "September 25, 2021") | Datetime (`YYYY-MM-DD`) | Parsed using `pd.to_datetime` |
-| **`duration` Structure** | Mixed String ("90 min", "2 Seasons") | Numeric + Unit separated | Regex / String splits |
+Cleaning and preparing the raw Netflix dataset (8,790 titles) for accurate business analytics and reporting.
 
 ---
 
-### 📁 Task Artifacts
-* `Dataset.csv`: Raw, unedited dataset.
-* `02_data_cleaning.ipynb`: Jupyter notebook containing the full cleaning script and validation checks.
-* `cleaned_netflix.csv`: Processed, production-ready dataset.
+### Task Workflow
+* **Step 1: Data Import** — Loaded `Dataset.csv` using Pandas and inspected missing values and data types
+* **Step 2: Missing Values** — Replace missing values ​​in `director` with `Unknown` and `country` with `Mode`
+* **Step 3: Deduplication** — Removed duplicate rows and remove excess whitespace from the beginning and end of string fields
+* **Step 4: Standardization** — Converted `date_added` to `datetime` (`YYYY-MM-DD`) 
+* **Step 5: Dataset Export** — Exported the clean dataset to `Cleaned_Dataset.csv`.
+
+---
+
+### Summary of Cleaning Actions
+
+| Column / Feature | Action Taken |
+| :--- | :--- |
+| **Missing Values** | Filled nulls in `director` and `country` with `'Unknown'` and `Mode` |
+| **Text Casing & Spaces** | Remove whitespace and standardized casing across text columns |
+| **`date_added`** | Parsed string dates into standard `YYYY-MM-DD` format |
+
+---
+
+### Task Artifacts
+* `Dataset.csv` — Raw dataset
+* `task1.ipynb` — Data cleaning script
+* `Cleaned_Dataset.csv` — Final cleaned dataset
+
+----
 
 ## Task 2
 Analyzing the baseline distribution and proportions of Movies and TV Shows available on Netflix
