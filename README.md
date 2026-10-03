@@ -18,7 +18,7 @@ Cleaning and preparing the raw Netflix dataset (8,790 titles) for accurate busin
 * **Step 2: Missing Values** — Replace missing values ​​in `director` with `Unknown` and `country` with `Mode`
 * **Step 3: Deduplication** — Removed duplicate rows and remove excess whitespace from the beginning and end of string fields
 * **Step 4: Standardization** — Converted `date_added` to `datetime` (`YYYY-MM-DD`) 
-* **Step 5: Dataset Export** — Exported the clean dataset to `Cleaned_Dataset.csv`.
+* **Step 5: Dataset Export** — Exported the clean dataset to `Cleaned_Dataset.csv`
 
 ---
 
