@@ -37,7 +37,8 @@ Cleaning and preparing the raw Netflix dataset (8,790 titles) for accurate busin
 * `task1.ipynb` — Data cleaning script
 * `Cleaned_Dataset.csv` — Final cleaned dataset
 
-----
+
+
 
 ## Task 2
 Analyzing the baseline distribution and proportions of Movies and TV Shows available on Netflix
