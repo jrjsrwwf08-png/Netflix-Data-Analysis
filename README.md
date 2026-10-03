@@ -18,8 +18,8 @@ Analyzing the baseline distribution and proportions of Movies and TV Shows avail
 * TV Shows Count : 2664 (30.3%)
 
 ### Visualization
-![Netflix Content Type Analysis](img1.png)
-![Netflix Content Type Analysis](img2.png)
+![Netflix Content Type Analysis](Content-Type-Analysis-Dashboard/img1.png)
+![Netflix Content Type Analysis](Content-Type-Analysis-Dashboard/img2.png)
 
 ### Business Insights And Recommendations
 * **Most Preferred Content :** Movies make up approximately **70%** of the total library driven by rapid production and release cycles
