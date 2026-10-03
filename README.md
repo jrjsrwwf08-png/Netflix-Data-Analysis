@@ -12,7 +12,6 @@ Analyzing and visualizing the Netflix library using Python through six tasks pre
 ## Task 1
 Cleaning and preparing the raw Netflix dataset (8,790 titles) for accurate business analytics and reporting.
 
----
 
 ### Task Workflow
 * **Step 1: Data Import** — Loaded `Dataset.csv` using Pandas and inspected missing values and data types
