@@ -9,7 +9,7 @@ Analyzing and visualizing the Netflix library using Python through six tasks pre
 - [ ] Task 5 : Trend Analysis by Release Year
 - [ ] Task 6 : Netflix Business Insights Report
 
-## Task 1
+# Task 1
 Cleaning and preparing the raw Netflix dataset (8,790 titles) for accurate business analytics and reporting.
 
 
