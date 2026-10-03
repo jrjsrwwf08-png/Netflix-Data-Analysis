@@ -2,14 +2,14 @@
 Analyzing and visualizing the Netflix library using Python through six tasks presented by Auspify Technologies
 
 ## Tasks Progress
-- [x] Task 1 : Content Type Analysis
-- [ ] Task 2 : Netflix Data Cleaning & Preparation
+- [ ] Task 1 : Netflix Data Cleaning & Preparation
+- [x] Task 2 : Content Type Analysis
 - [ ] Task 3 : Country-Wise Content Analysis
 - [ ] Task 4 : Content Rating & Genre Analysis
 - [ ] Task 5 : Trend Analysis by Release Year
 - [ ] Task 6 : Netflix Business Insights Report
 
-## Task 1
+## Task 2
 Analyzing the baseline distribution and proportions of Movies and TV Shows available on Netflix
 
 ### Key points :
