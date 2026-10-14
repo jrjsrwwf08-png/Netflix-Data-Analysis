@@ -72,7 +72,7 @@ Analyze Netflix content distribution across different countries to identify prim
 ![Country-Wise Netflix Content Analysis]( Country-Wise-Netflix-Content-Analysis/movie_image.png)
 ![Country-Wise Netflix Content Analysis](Country-Wise-Netflix-Content-Analysis/TvShow_image.png)
 
-### Business Insights And Recommendations :
+### Key Business Insights :
 * **Absolute Dominance of the United States :** The United States leads the platform by a massive margin in both categories, recording approximately 2,652 movies and 875 TV shows, establishing itself as the primary content hub globally
 
 * **India's Movie-Centric Focus :** India secures the second position globally for movies with 976 films, but drops significantly in TV shows with only 81 series, highlighting a heavy market preference toward feature-length cinema
