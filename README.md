@@ -63,10 +63,10 @@ Analyzing the baseline distribution and proportions of Movies and TV Shows avail
 Analyze Netflix content distribution across different countries to identify primary global production hubs and evaluate content type preferences (Movies vs. TV Shows) in top-producing regions
 
 ### Workflow & Data Processing:
-1. **Data Preparation : **Handled missing values and split , exploded multi-country records (cells with comma-separated countries) into individual rows to ensure accurate per-country counting
-2. **Aggregation & Ranking : *Grouped the data by country to calculate total content output, isolating the **Top 15 countries** with the highest production volume*
-3. **Content Segmentation : **Filtered content to separately analyze Movies and TV Shows across these top markets
-4. **Proportional Analysis : **Computed specific percentages of Movies vs. TV Shows within leading regions to uncover local content consumption trends
+1. **Data Preparation :** Handled missing values and split , exploded multi-country records (cells with comma-separated countries) into individual rows to ensure accurate per-country counting
+2. **Aggregation & Ranking :** Grouped the data by country to calculate total content output, isolating the **Top 15 countries** with the highest production volume*
+3. **Content Segmentation :** Filtered content to separately analyze Movies and TV Shows across these top markets
+4. **Proportional Analysis :** Computed specific percentages of Movies vs. TV Shows within leading regions to uncover local content consumption trends
 
 ### Key Visualizations:
 * **Top 15 Countries for Netflix Movies:** A dedicated bar chart showcasing major movie-producing nations with exact data labels
