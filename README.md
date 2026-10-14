@@ -83,7 +83,7 @@ Analyze Netflix content distribution across different countries to identify prim
 
 ## Actionable Recommendations :
 
-### for Asian Markets
+### for Asian Markets :
 
 Given the notable success of TV series in Japan and South Korea, Netflix should increase investment in local drama productions and K-Dramas to drive growth in these markets
 
@@ -91,6 +91,6 @@ Given the notable success of TV series in Japan and South Korea, Netflix should 
 
 Since production in Egypt and Nigeria focuses heavily on feature films rather than TV series, it is recommended to prioritize acquiring digital rights to popular films in the region to attract more local subscribers
 
-### for Production Strategy:
+### for Production Strategy :
 
 Given the United States' overwhelming dominance, content investments should be diversified regionally to reduce reliance on a single market and create a more comprehensive library for the global audience
