@@ -4,7 +4,7 @@ Analyzing and visualizing the Netflix library using Python through six tasks pre
 ## Tasks Progress
 - [x] Task 1 : Netflix Data Cleaning & Preparation
 - [x] Task 2 : Content Type Analysis
-- [ ] Task 3 : Country-Wise Content Analysis
+- [x] Task 3 : Country-Wise Content Analysis
 - [ ] Task 4 : Content Rating & Genre Analysis
 - [ ] Task 5 : Trend Analysis by Release Year
 - [ ] Task 6 : Netflix Business Insights Report
@@ -56,3 +56,21 @@ Analyzing the baseline distribution and proportions of Movies and TV Shows avail
 * **Most Preferred Content :** Movies make up approximately **70%** of the total library driven by rapid production and release cycles
 * **Engagement vs. Volume :** While movies account for the majority of the content TV series are the primary driver of long term user retention and subscription growth
 * **Strategic Move :** Netflix should balance its content portfolio by increasing investment in TV series to reduce churn rates
+
+---
+
+# Task 3
+Analyze Netflix content distribution across different countries to identify primary global production hubs and evaluate content type preferences (Movies vs. TV Shows) in top-producing regions
+
+### Workflow & Data Processing:
+1. **Data Preparation : **Handled missing values and split , exploded multi-country records (cells with comma-separated countries) into individual rows to ensure accurate per-country counting
+2. **Aggregation & Ranking : *Grouped the data by country to calculate total content output, isolating the **Top 15 countries** with the highest production volume*
+3. **Content Segmentation : **Filtered content to separately analyze Movies and TV Shows across these top markets
+4. **Proportional Analysis : **Computed specific percentages of Movies vs. TV Shows within leading regions to uncover local content consumption trends
+
+### Key Visualizations:
+* **Top 15 Countries for Netflix Movies:** A dedicated bar chart showcasing major movie-producing nations with exact data labels
+* **Top 15 Countries for Netflix TV Shows:** A dedicated bar chart analyzing serial content distribution across leading markets
+
+![Country-Wise Netflix Content Analysis]( Country-Wise-Netflix-Content-Analysis/movie_image.png)
+![Country-Wise Netflix Content Analysis](Country-Wise-Netflix-Content-Analysis/TvShow_image.png)
