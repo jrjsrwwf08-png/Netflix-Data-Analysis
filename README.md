@@ -127,7 +127,7 @@ The project generates two types of visual analyses for deep comparison :
 
 * **Quiet Beginnings :** The early years (from the mid-20th century to the early 2000s) experienced near-complete stability and very limited production, hovering around just zero to one title annually
 
-* **The Great Surge (2015–2016): ** The qualitative leap and massive production surge for movies began to escalate sharply and rapidly starting between 2015 and 2016 before reaching its historical peak later
+* **The Great Surge (2015–2016) :** The qualitative leap and massive production surge for movies began to escalate sharply and rapidly starting between 2015 and 2016 before reaching its historical peak later
 
 * **Peak and Maximum Production :** Release numbers reached their highest levels ever around 2018 and 2019 for movies, before experiencing a noticeable slowdown or decline in new releases in recent years
 
