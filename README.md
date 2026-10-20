@@ -6,7 +6,7 @@ Analyzing and visualizing the Netflix library using Python through six tasks pre
 - [x] Task 2 : Content Type Analysis
 - [x] Task 3 : Country-Wise Content Analysis
 - [ ] Task 4 : Content Rating & Genre Analysis
-- [ ] Task 5 : Trend Analysis by Release Year
+- [x] Task 5 : Trend Analysis by Release Year
 - [ ] Task 6 : Netflix Business Insights Report
 
 # Task 1
@@ -69,7 +69,7 @@ Analyze Netflix content distribution across different countries to identify prim
 * **Top 15 Countries for Netflix Movies:** A dedicated bar chart showcasing major movie-producing nations with exact data labels
 * **Top 15 Countries for Netflix TV Shows:** A dedicated bar chart analyzing serial content distribution across leading markets
 
-![Country-Wise Netflix Content Analysis]( Country-Wise-Netflix-Content-Analysis/movie_image.png)
+![Country-Wise Netflix Content Analysis](Country-Wise-Netflix-Content-Analysis/movie_image.png)
 ![Country-Wise Netflix Content Analysis](Country-Wise-Netflix-Content-Analysis/TvShow_image.png)
 
 ### Key Business Insights :
@@ -94,3 +94,25 @@ Since production in Egypt and Nigeria focuses heavily on feature films rather th
 ### for Production Strategy :
 
 Given the United States' overwhelming dominance, content investments should be diversified regionally to reduce reliance on a single market and create a more comprehensive library for the global audience
+
+# Task 5
+Studying and tracking Netflix’s production of films and series over time by analyzing annual releases, in order to understand its evolution, historical developments, and diverse patterns
+
+### Workflow & Data Processing :
+1. **Data Preparation & Validation:** Inspecting and cleaning the dataset, verifying that the `release_year` column has no missing values.
+2. **Data Aggregation :** Grouping data by `Release_Year` and `Type` (Movies vs. TV Shows) to compute yearly release counts
+3. **Time Series Visualizations :** Plotting data using both combined and separate trendlines to highlight production scale and patterns
+4. **Business Insights :** Interpreting historical milestones and strategic shifts in streaming content production
+
+### Visualizations Included
+The project generates two types of visual analyses for deep comparison :
+* **Combined Trend Plot :** Places both Movies and TV Shows on a single timeline to clearly demonstrate the massive scale difference and overall growth
+* **Separate Subplots :** Uses independent scales for Movies and TV Shows to examine individual growth trajectories and historical peaks without visual distortion
+
+#### Combined Trend Plot
+![Trend-Analysis-by-Release-Year](Trend-Analysis-by-Release-Year/movies_tvShows.png)
+
+#### Separate Subplots
+![Trend-Analysis-by-Release-Year](Trend-Analysis-by-Release-Year/movies.png)
+![Trend-Analysis-by-Release-Year](Trend-Analysis-by-Release-Year/tvShows.png)
+
