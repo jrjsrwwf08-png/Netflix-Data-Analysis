@@ -73,6 +73,7 @@ Analyze Netflix content distribution across different countries to identify prim
 ![Country-Wise Netflix Content Analysis](Country-Wise-Netflix-Content-Analysis/TvShow_image.png)
 
 ### Key Business Insights :
+
 * **Absolute Dominance of the United States :** The United States leads the platform by a massive margin in both categories, recording approximately 2,652 movies and 875 TV shows, establishing itself as the primary content hub globally
 
 * **India's Movie-Centric Focus :** India secures the second position globally for movies with 976 films, but drops significantly in TV shows with only 81 series, highlighting a heavy market preference toward feature-length cinema
@@ -113,6 +114,33 @@ The project generates two types of visual analyses for deep comparison :
 ![Trend-Analysis-by-Release-Year](Trend-Analysis-by-Release-Year/movies_tvShows.png)
 
 #### Separate Subplots
+
+* Movies
 ![Trend-Analysis-by-Release-Year](Trend-Analysis-by-Release-Year/movies.png)
+
+* Tv Shows
 ![Trend-Analysis-by-Release-Year](Trend-Analysis-by-Release-Year/tvShows.png)
 
+### Key Business Insights :
+
+* **Productive Dominance of Movies :** The temporal analysis shows that overall movie production significantly and overwhelmingly outperforms TV shows throughout the platform's history
+
+* **Quiet Beginnings :** The early years (from the mid-20th century to the early 2000s) experienced near-complete stability and very limited production, hovering around just zero to one title annually
+
+* **The Great Surge (2015–2016): ** The qualitative leap and massive production surge for movies began to escalate sharply and rapidly starting between 2015 and 2016 before reaching its historical peak later
+
+* **Peak and Maximum Production :** Release numbers reached their highest levels ever around 2018 and 2019 for movies, before experiencing a noticeable slowdown or decline in new releases in recent years
+
+* **TV Shows Trajectory :** TV shows followed a low and closely aligned trajectory with movies for long periods, until they also experienced accelerated growth parallel to the platform's digital expansion in recent years
+
+* **TV Shows Peak :** TV show releases reached their historical peak slightly later than movies, specifically around the year 2020, where new titles surpassed 400 series
+
+* **Consistency of TV Shows :** Unlike movies—which experienced a sharp and rapid drop after 2019—TV shows demonstrated relative stability and sustained high levels in recent years, reflecting a strategic shift toward strengthening episodic content
+
+### Actionable Recommendations :
+
+* **Revitalize Movie Production Strategy :** Given the notable decline in the number of films released since 2019, Netflix should re-evaluate its content approaches and production processes in order to restore its film output to peak levels
+
+* **Maintaining the standard of television series :** Capitalizing on the flexibility and high levels of engagement characteristic of television series—which saw a notable peak around 2020—by continuing to invest in a diverse range of high-performing series
+
+* **Optimize Content Diversification :** Balance the release schedule by leveraging the massive reach of movies alongside the long-term retention power of TV shows, ensuring a steady, multi-season content calendar that avoids sudden production drop-offs
