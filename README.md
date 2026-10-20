@@ -141,6 +141,6 @@ The project generates two types of visual analyses for deep comparison :
 
 * **Revitalize Movie Production Strategy :** Given the notable decline in the number of films released since 2019, Netflix should re-evaluate its content approaches and production processes in order to restore its film output to peak levels
 
-* **Maintaining the standard of television series :** Capitalizing on the flexibility and high levels of engagement characteristic of television series—which saw a notable peak around 2020—by continuing to invest in a diverse range of high-performing series
+* **Maintaining the standard of television series :** Capitalizing on the flexibility and high levels of engagement characteristic of television series which saw a notable peak around 2020 by continuing to invest in a diverse range of high-performing series
 
 * **Optimize Content Diversification :** Balance the release schedule by leveraging the massive reach of movies alongside the long-term retention power of TV shows, ensuring a steady, multi-season content calendar that avoids sudden production drop-offs
